@@ -9,4 +9,5 @@ Bollinger Bands is a popular technical analysis tool used to identify potential 
 
 Here, 
 𝑘
-k is typically set to 2.
+k is typically set to 2.<br />
+**Sell Signal:** <br /> When the price crosses above the upper band and then reverses downwards, indicating an overbought condition.
