@@ -3,10 +3,9 @@
 ##
 Bollinger Bands is a popular technical analysis tool used to identify potential overbought or oversold conditions in the market. The strategy involves three lines:
 #
-*Middle Band*: The moving average (usually 20-period).
-*Upper Band*: Middle Band + (k × Standard Deviation).
-#
-*Lower Band*: Middle Band - (k × Standard Deviation).
+*Middle Band*: The moving average (usually 20-period).<br />
+*Upper Band*: Middle Band + (k × Standard Deviation).<br />
+*Lower Band*: Middle Band - (k × Standard Deviation).<br />
 
 Here, 
 𝑘
